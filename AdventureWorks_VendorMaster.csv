@@ -1,0 +1,105 @@
+BusinessEntityID,AccountNumber,VendorName,AddressType,AddressLine1,AddressLine2,City,PostalCode,StateProvince,Territory,Country
+1492,AUSTRALI0001,Australia Bike Retailer,Main Office,28 San Marino Ct.,NULL,Bellingham,98225,Washington,Northwest,United States
+1494,ALLENSON0001,Allenson Cycles,Main Office,4659 Montoya,NULL,Altadena,91001,California,Southwest,United States
+1496,ADVANCED0001,Advanced Bicycles,Main Office,7995 Edwards Ave.,NULL,Lynnwood,98036,Washington,Northwest,United States
+1498,TRIKES0001,"Trikes, Inc.",Main Office,90 Sunny Ave,NULL,Berkeley,94704,California,Southwest,United States
+1500,MORGANB0001,Morgan Bike Accessories,Main Office,9098 Story Lane,NULL,Albany,12210,New York,Northeast,United States
+1502,CYCLING0001,Cycling Master,Main Office,4823 Stonewood Ct.,NULL,Walla Walla,99362,Washington,Northwest,United States
+1504,CHICAGO0002,Chicago Rent-All,Main Office,15 Pear Dr.,NULL,Newport Beach,92625,California,Southwest,United States
+1506,GREENWOO0001,Greenwood Athletic Company,Main Office,6441 Co Road,NULL,Lemon Grove,85252,Arizona,Southwest,United States
+1508,COMPETE0001,"Compete Enterprises, Inc",Main Office,50 Via Del Sol,NULL,Lynnwood,98036,Washington,Northwest,United States
+1510,INTERNAT0001,International,Main Office,683 Larch Ct.,NULL,Salt Lake City,84101,Utah,Northwest,United States
+1512,LIGHTSP0001,Light Speed,Main Office,298 Sunnybrook Drive,NULL,Spring Valley,91977,California,Southwest,United States
+1514,TRAINING0001,Training Systems,Main Office,6 Dancing Road,NULL,Burien,98168,Washington,Northwest,United States
+1516,GARDNER0001,Gardner Touring Cycles,Main Office,8513 Hurlstone Ct.,NULL,Altadena,91001,California,Southwest,United States
+1518,INTERNAT0004,International Trek Center,Main Office,8844 Garcia,NULL,West Covina,91791,California,Southwest,United States
+1520,G&KBI0001,G & K Bicycle Corp.,Main Office,8981 Carmel Drive,NULL,W. Linn,89701,Nevada,Northwest,United States
+1522,FIRSTNA0001,First National Sport Co.,Main Office,8127 Otter Dr.,NULL,Boise,83702,Idaho,Northwest,United States
+1524,RECREATI0001,Recreation Place,Main Office,207 Concerto Circle,NULL,Salem,97301,Oregon,Northwest,United States
+1526,INTERNAT0002,International Bicycles,Main Office,20 Rambling Rose Ave.,# 103,West Covina,91791,California,Southwest,United States
+1528,IMAGEMA0001,Image Makers Bike Center,Main Office,3195 RiverRock Dr.,NULL,Burlingame,94010,California,Southwest,United States
+1530,COMFORT0001,Comfort Road Bicycles,Main Office,7651 Smiling Tree Court,Space 55,Los Angeles,90012,California,Southwest,United States
+1532,KNOPFLER0001,Knopfler Cycles,Main Office,3253 La Jolla,NULL,Salem,97301,Oregon,Northwest,United States
+1534,READYRE0001,Ready Rentals,Main Office,35 Buckthorn Court,# 1,Kirkland,98033,Washington,Northwest,United States
+1536,CRUGERB0001,Cruger Bike Company,Main Office,67 Monetary Way,NULL,Berkeley,94704,California,Southwest,United States
+1538,VISTARO0001,Vista Road Bikes,Main Office,8197 Hermosa,NULL,Salem,97301,Oregon,Northwest,United States
+1540,BERGERON0001,Bergeron Off-Roads,Main Office,9830 May Way,NULL,Mill Valley,59715,Montana,Northwest,United States
+1542,HILLSBI0001,Hill's Bicycle Service,Main Office,3664 Colt Ct.,NULL,Richmond,94801,California,Southwest,United States
+1544,CIRCUIT0001,Circuit Cycles,Main Office,1 Mt. Dell Drive,NULL,Portland,97205,Oregon,Northwest,United States
+1546,GREENLA0001,Green Lake Bike Company,Main Office,2342 Peachwillow,NULL,Denver,80203,Colorado,Central,United States
+1548,CONSUMER0001,Consumer Cycles,Main Office,3 Chablis Court,NULL,Torrance,90505,California,Southwest,United States
+1550,MERITBI0001,Merit Bikes,Main Office,7 Mayda Way,NULL,Bremerton,98312,Washington,Northwest,United States
+1552,SPORTSH0001,Sports House,Main Office,2014 Delta Road,NULL,Burien,98168,Washington,Northwest,United States
+1554,WESTAMER0001,WestAmerica Bicycle Co.,Main Office,8040 Erie Dr,6 Monteira,Houston,77003,Texas,Southwest,United States
+1556,WESTJUN0001,West Junction Cycles,Main Office,7786 Olive St,NULL,Olympia,98501,Washington,Northwest,United States
+1558,MARSH0001,Marsh,Main Office,7 B Way,NULL,Woodburn,97071,Oregon,Northwest,United States
+1560,CAPITAL0001,Capital Road Cycles,Main Office,628 Muir Road,NULL,Los Angeles,90012,California,Southwest,United States
+1562,NORSTAN0001,Norstan Bike Hut,Main Office,68 Filling Ave.,NULL,Beaverton,97005,Oregon,Northwest,United States
+1564,ILLINOIS0001,Illinois Trek & Clothing,Main Office,1192 Parkway Drive,NULL,Mill Valley,68601,Nebraska,Central,United States
+1566,BURNETT0001,Burnett Road Warriors,Main Office,5807 Churchill Dr.,NULL,Corvallis,97330,Oregon,Northwest,United States
+1568,CUSTOMF0001,"Custom Frames, Inc.",Main Office,419 River Ash Court,#9,Lakewood,63301,Missouri,Central,United States
+1570,FIRSTRA0001,First Rate Bicycles,Main Office,7053 Laurel Dr.,NULL,La Mesa,88044,New Mexico,Southwest,United States
+1572,NATIONAL0001,National Bike Association,Main Office,90 Trujillo,NULL,Sedro Woolley,98284,Washington,Northwest,United States
+1574,JEFFSSP0001,Jeff's Sporting Goods,Main Office,31 Bridgeview St,NULL,Glendale,91203,California,Southwest,United States
+1576,SUPERIOR0001,Superior Bicycles,Main Office,87 S. Rising Ave,NULL,Lynnwood,98036,Washington,Northwest,United States
+1578,VISIONC0001,"Vision Cycles, Inc.",Main Office,40 Panorama Drive,NULL,Glendale,91203,California,Southwest,United States
+1580,LITWARE0001,"Litware, Inc.",Main Office,4405 Balboa Court,NULL,Santa Cruz,95062,California,Southwest,United States
+1582,INNERCI0001,Inner City Bikes,Main Office,102 Silverado Drive,NULL,W. Linn,97068,Oregon,Northwest,United States
+1584,TREYRE0001,Trey Research,Main Office,1874 Valley Blvd.,NULL,Palo Alto,94303,California,Southwest,United States
+1586,MITCHELL0001,Mitchell Sports,Main Office,7562 Daylight Place,NULL,Everett,98201,Washington,Northwest,United States
+1588,SIGNATUR0001,Signature Cycles,Main Office,50 Kim Court,NULL,Coronado,92118,California,Southwest,United States
+1590,SUPERSAL0001,SUPERSALES INC.,Main Office,9443 Oaxaca,NULL,Lakewood,90712,California,Southwest,United States
+1592,LINDELL0001,Lindell,Main Office,9151 Napa C.,NULL,Lebanon,97355,Oregon,Northwest,United States
+1594,FITNESS0001,Fitness Association,Main Office,8629 Pepper Place,NULL,Bellevue,98004,Washington,Northwest,United States
+1596,ADATUM0001,A. Datum Corporation,Main Office,2596 Big Canyon Road,NULL,New York,10007,New York,Northeast,United States
+1598,CONTINEN0001,Continental Pro Cycles,Main Office,2 Lion Circle,NULL,Long Beach,90802,California,Southwest,United States
+1600,FEDERAL0001,Federal Sport,Main Office,2909 Toyon Dr.,NULL,Burlingame,94010,California,Southwest,United States
+1602,BEAUMONT0001,Beaumont Bikes,Main Office,2472 Alexander Place,NULL,West Covina,83301,Idaho,Northwest,United States
+1604,BIKESAT0001,Bike Satellite Inc.,Main Office,2141 Delaware Ct.,NULL,Downey,37501,Tennessee,Southeast,United States
+1606,NORTHW0001,Northwind Traders,Main Office,137 Lancelot Dr,NULL,Phoenix,85004,Arizona,Southwest,United States
+1608,SPORTPL0001,Sport Playground,Main Office,8671 Westwood Lane,NULL,Palo Alto,94303,California,Southwest,United States
+1610,HYBRIDB0001,Hybrid Bicycle Center,Main Office,6959 Lakewood Court,NULL,Daly City,94015,California,Southwest,United States
+1612,MIDWEST0001,"Midwest Sport, Inc.",Main Office,594 Tossing Way,NULL,Detroit,48226,Michigan,Central,United States
+1614,RELIANCE0001,"Reliance Fitness, Inc.",Main Office,5514 Grant Street,NULL,Ballard,98107,Washington,Northwest,United States
+1616,AURORAB0001,Aurora Bike Center,Main Office,65 Park Glen Court,NULL,Port Orchard,98366,Washington,Northwest,United States
+1618,METROSP0001,Metro Sport Equipment,Main Office,60 Oakgrove Rd.,NULL,Lebanon,97355,Oregon,Northwest,United States
+1620,LAKEWOOD0001,Lakewood Bicycle,Main Office,6030 Winter Drive,# 4d,Imperial Beach,91932,California,Southwest,United States
+1622,SPEEDCO0001,Speed Corporation,Main Office,2834 Clifford Court,#9,Anacortes,98221,Washington,Northwest,United States
+1624,COMPETIT0001,Competition Bike Training Systems,Main Office,4151 Olivera,NULL,Atlanta,30308,Georgia,Southeast,United States
+1626,HILLBIC0001,Hill Bicycle Center,Main Office,87 Pheasant Circle,NULL,Oakland,94611,California,Southwest,United States
+1628,BICYCLE0001,Bicycle Specialists,Main Office,1286 Cincerto Circle,NULL,Lake Oswego,97034,Oregon,Northwest,United States
+1630,INDIANA0001,Indiana Bicycle Center,Main Office,9620 Laurel Drive,NULL,Novato,82070,Wyoming,Northwest,United States
+1632,SPORTFA0001,Sport Fan Co.,Main Office,80 Edward Ave,NULL,Burien,98168,Washington,Northwest,United States
+1634,GMASKI0001,GMA Ski & Bike,Main Office,50 Breck Court,NULL,Bremerton,98312,Washington,Northwest,United States
+1636,INTEGRAT0001,Integrated Sport Products,Main Office,75 Q St.,NULL,Chula Vista,91910,California,Southwest,United States
+1638,INLINEA0001,Inline Accessories,Main Office,5 Madrid,NULL,Concord,94519,California,Southwest,United States
+1640,LEGENDC0001,Legend Cycles,Main Office,978 Mozden Lane,NULL,San Francisco,94109,California,Southwest,United States
+1642,ELECTRON0001,Electronic Bike Co.,Main Office,8157 Tweed Lane,NULL,Anacortes,98221,Washington,Northwest,United States
+1644,INTERNAT0003,International Sport Assoc.,Main Office,6119 11th,NULL,Salt Lake City,84101,Utah,Northwest,United States
+1646,ELECTRON0002,Electronic Bike Repair & Supplies,Main Office,8547 Catherine Way,NULL,Tacoma,98403,Washington,Northwest,United States
+1648,WIDEWOR0001,Wide World Importers,Main Office,50 Edward Ave,NULL,Concord,94519,California,Southwest,United States
+1650,AMERICAN0001,American Bicycles and Wheels,Main Office,1667 Warren Street,NULL,West Covina,91791,California,Southwest,United States
+1652,VICTORY0001,Victory Bikes,Main Office,3459 Tri-state Ave,NULL,Issaquah,98027,Washington,Northwest,United States
+1654,AMERICAN0002,American Bikes,Main Office,7179 Montana,NULL,Torrance,90505,California,Southwest,United States
+1656,MOUNTAIN0001,Mountain Works,Main Office,8 Rogers Ave.,NULL,Everett,98201,Washington,Northwest,United States
+1658,CROWLEY0001,Crowley Sport,Main Office,9056 Mount Dr,NULL,Chicago,60610,Illinois,Central,United States
+1660,MAGICCY0001,Magic Cycles,Main Office,24 Bohon Circle,NULL,Burlingame,94010,California,Southwest,United States
+1662,NORTHERN0001,Northern Bike Travel,Main Office,3427 C Del Rio Ln,NULL,Anacortes,98221,Washington,Northwest,United States
+1664,ANDERSON0001,Anderson's Custom Bikes,Main Office,9 Guadalupe Dr.,NULL,Burbank,91502,California,Southwest,United States
+1666,LEAFRIV0001,Leaf River Terrain,Main Office,1619 Mills Dr.,NULL,Albany,97321,Oregon,Northwest,United States
+1668,TOURING0001,Touring Equipment Center,Main Office,3681 South St.,NULL,St. Louis,63103,Missouri,Central,United States
+1670,HOLIDAY0001,Holiday Skate & Cycle,Main Office,3294 Buena Vista,NULL,Lemon Grove,85284,Arizona,Southwest,United States
+1672,EXPERTB0001,Expert Bike Co,Main Office,8892 Columbia River Ct.,NULL,Santa Cruz,95062,California,Southwest,United States
+1674,VARSITY0001,Varsity Sport Co.,Main Office,81 Ana Mile,NULL,Spokane,99202,Washington,Northwest,United States
+1676,TEAMATH0001,Team Athletic Co.,Main Office,581 Roundtree Place,NULL,Spokane,99202,Washington,Northwest,United States
+1678,PROSE0001,"Proseware, Inc.",Main Office,50 Big Canyon Road,NULL,Lebanon,97355,Oregon,Northwest,United States
+1680,JACKSON0001,Jackson Authority,Main Office,32 East 87th Street,NULL,Long Beach,90802,California,Southwest,United States
+1682,PREMIER0001,"Premier Sport, Inc.",Main Office,7682 Fern Leaf Lane,NULL,Boston,2113,Massachusetts,Northeast,United States
+1684,PROFESSI0001,Professional Athletic Consultants,Main Office,20 Smiling Tree Court,NULL,Burbank,91502,California,Southwest,United States
+1686,PROSPOR0001,Pro Sport Industries,Main Office,6360 Sand Pointe Lane,NULL,Coronado,92118,California,Southwest,United States
+1688,WOODFIT0001,Wood Fitness,Main Office,7824 Frame Ln,NULL,Philadelphia,19107,Pennsylvania,Northeast,United States
+1690,BLOOMING0001,Bloomington Multisport,Main Office,218 Fall Creek Road,NULL,West Covina,91791,California,Southwest,United States
+1692,CARLSON0001,Carlson Specialties,Main Office,2313 B Southampton Rd,NULL,Missoula,59801,Montana,Northwest,United States
+1694,COMPETE0002,"Compete, Inc.",Main Office,9491 Toyon Dr,NULL,Dallas,75201,Texas,Southwest,United States
+1696,CHICAGO0001,Chicago City Saddles,Main Office,3 Gehringer Drive,NULL,Daly City,94015,California,Southwest,United States
+1698,BUSINESS0001,Business Equipment Center,Main Office,6061 St. Paul Way,NULL,Everett,98201,Montana,Northwest,United States
